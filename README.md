@@ -10,7 +10,7 @@
 
 ## 🚀 Demo
 
-We present the first method capable of recovering **globally consistent motion** from multi-shot videos while maintaining **cross-view motion coherence** across sequential video clips with varying camera angles. 
+We present the first method capable of recovering **globally consistent human motion** from multi-shot videos while maintaining **cross-view motion coherence** across sequential video clips shot by varying camera viewpoints. 
 ![image](https://github.com/user-attachments/assets/9feec867-40a9-4082-b059-5299658283d6)
 
 👉 [Watch the Demo](https://www.youtube.com/watch?v=gG6QVITc82U)
