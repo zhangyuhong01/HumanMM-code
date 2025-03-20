@@ -15,6 +15,8 @@ We present the first method capable of recovering **globally consistent human mo
 
 👉 [Watch the Demo](https://www.youtube.com/watch?v=gG6QVITc82U)
 
+[3.20] We have released the ms-Motion dataset in [Huggingface](https://huggingface.co/datasets/YuhongZhang/ms-Motion), the processing and baseline code will comming soon!
+
 
 ## 📝 Abstract
 
